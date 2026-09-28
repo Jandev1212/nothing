@@ -1,6 +1,6 @@
 {
-  "bitcoin": "normal",
+  "bitcoin": "queda",
   "ethereum": "normal",
   "litecoin": "normal",
-  "solana": "normal"
+  "solana": "queda"
 }
